@@ -24,9 +24,9 @@
 </tr>
 <tr>
 <td> BGD </td> <td> 500 </td> <td> 0.021650905029 s </td>
+</tr>
 <tr>
 <td> SGD </td> <td> 150 </td> <td> 0.176577097458 s </td>
-
 </tr>
 </table>
     
