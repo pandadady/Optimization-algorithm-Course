@@ -20,7 +20,12 @@
     The number of sample is 100, The dimension is 3.
 <table>
 <tr>
-<td> name </td> <td>iteration number</td> <td>calculation time</td>
+<td> Method name </td> <td> Iteration number</td> <td> Calculation time </td>
+
+<td> BGD </td> <td> 500 </td> <td> 0.021650905029 s </td>
+
+<td> SGD </td> <td> 150 </td> <td> 0.176577097458 s </td>
+
 </tr>
 </table>
     
