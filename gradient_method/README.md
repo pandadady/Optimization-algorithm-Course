@@ -18,10 +18,10 @@
 ##3.Experiment
 
     The number of sample is 100, The dimension is 3.
-    <table>
-    <tr>
-    <td> name </td> <td>iteration number</td> <td>calculation time</td>
-    </tr>
-    </table>
+<table>
+<tr>
+<td> name </td> <td>iteration number</td> <td>calculation time</td>
+</tr>
+</table>
     
     
