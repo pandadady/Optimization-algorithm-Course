@@ -34,7 +34,7 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=X_%7Bn%2B1%7D%3DX_%7Bn%7D-%5Cfrac%7B%5Cnabla%20J(X_%7Bn%7D)%7D%7BHJ(X_%7Bn%7D)%7D" style="border:none;" />
 
-    HJ(X) is Hessian Matrix which is a multivariate function of the two-order partial derivative of the matrix.
+    HJ(X) is Hessian Matrix which is a two-order partial derivative of the multivariate function of the matrix.
 
     For example, logistic regression
 
@@ -49,6 +49,10 @@
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20w_%7B2%7D%7D%3D%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)x%5E%7Bi%7D_%7B2%7D%5D" style="border:none;" />
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=................................................%5C%5C%0A%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20w_%7Bn%7D%7D%3D%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)x%5E%7Bi%7D_%7Bn%7D%5D" style="border:none;" />
+    
+    The two-order partial derivative of the multivariate function is
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20w_%7Bk%7D%5Cpart%20w_%7Bj%7D%7D%3D%0A%0A%5Cfrac%7B%5Cpart%20%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)x%5E%7Bi%7D_%7Bk%7D%5D%7D%0A%7B%5Cpart%20w_%7Bj%7D%7D%0A%0A" style="border:none;" />
 
 
     
