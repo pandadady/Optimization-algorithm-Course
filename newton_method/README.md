@@ -61,7 +61,9 @@
     Assum X is:
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=X%3D%5B%5C%5C%0Ax_%7B10%7D%20%2C%5C%20%5C%20%5C%20x_%7B11%7D%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2Cx_%7B1n%7D%5C%5C%0Ax_%7B20%7D%20%2C%5C%20%5C%20%5C%20x_%7B21%7D%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2Cx_%7B2n%7D%5C%5C%0A...%5C%5C%0Ax_%7Bm0%7D%20%2C%5C%20%5C%20%5C%20x_%7Bm1%7D%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2Cx_%7Bmn%7D%5C%5C%0A%5D" style="border:none;" />
+
     Assum A is:
+    
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=A%3D%5B%5C%5C%0A%5Cpi(X%5E%7B1%7D)(%5Cpi(X%5E%7B1%7D)-1)%20%2C%5C%20%5C%20%5C%200%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2C0%5C%5C%0A0%20%2C%5C%20%5C%20%5C%20%5Cpi(X%5E%7B2%7D)(%5Cpi(X%5E%7B2%7D)-1)%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2C0%5C%5C%0A...%5C%5C%0A0%20%2C%5C%20%5C%20%5C%200%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2C%5Cpi(X%5E%7Bm%7D)(%5Cpi(X%5E%7Bm%7D)-1)%5C%5C%0A%5D" style="border:none;" />
     
     So Hessian Matrix is 
