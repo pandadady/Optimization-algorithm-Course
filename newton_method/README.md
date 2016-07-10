@@ -70,6 +70,12 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=H%3DX%5E%7BT%7DAX" style="border:none;" />
 
+    As we all know, if for any X, A is greater than 0, A is positive definite matrix,
+    
+    lnL(W) will get the max value
+    
+    
+
     
     
 
