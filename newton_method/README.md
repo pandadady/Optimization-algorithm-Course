@@ -74,8 +74,14 @@
     
     lnL(W) will get the max value
     
-    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=Set%20%5C%20%5C%20%5C%20%5C%5C%0AU%3D%0A%5B%20%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0AY%5E%7B1%7D-%5Cpi(X%5E%7B1%7D)%5C%5C%0AY%5E%7B2%7D-%5Cpi(X%5E%7B2%7D)%5C%5C%0A...%5C%5C%0AY%5E%7Bm%7D-%5Cpi(X%5E%7Bm%7D)%5C%5C%0A%5D" style="border:none;" />
 
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=lnL(W)'%3DXU%5C%5C%0AlnL(W)''%3DH%5C%5C%0A" style="border:none;" />
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=X_%7Bn%2B1%7D%3DX_%7Bn%7D-H%5E%7B-1%7DUX" style="border:none;" />
+
+
+    
     
     
 
