@@ -25,9 +25,9 @@
 
     SGD(Stochastic gradient descent method):
         
-        During each iteration, one sample of data will be taken into calculation. It means to loss some accuracy but speed up the 
+        During each iteration, one sample of data will be taken into calculation. It means to loss some accuracy but 
         
-        process of convergence.
+        speed up the process of convergence.
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(w)%7D%7B%5Cpart%20W%7D%20%3D%20%5B(Y%5E%7Bi%7DX%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)X%5E%7Bi%7D%5D" style="border:none;" />
         
