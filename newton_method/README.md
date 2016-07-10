@@ -26,5 +26,13 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=J'(x)%2BJ''(x)%5CDelta%20x%3D0%5C%5C%0A%5CDelta%20x%3D-%5Cfrac%7BJ'(x)%7D%7BJ''(x)%7D" style="border:none;" />
 
+    If X is a Multi-dimensional vector.
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=J(X)%3DJ(X_%7B0%7D)%2B(X-X_%7B0%7D)%5E%7BT%7D%5Cnabla%20J(X_%7B0%7D)%2B%5Cfrac%7B1%7D%7B2%7D(X-X_%7B0%7D)%5E%7BT%7DHJ(X_%7B0%7D)(X-X_%7B0%7D)%2Bo(%7C%7C%7C%7CX-X_%7B0%7D)%5E%7B2%7D" style="border:none;" />
+
+    Ignore the infinitesimal, the iteration formula is：
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=X_%7Bn%2B1%7D%3DX_%7Bn%7D-%5Cfrac%7B%5Cnabla%20J(X_%7Bn%7D)%7D%7BHJ(X_%7Bn%7D)%7D" style="border:none;" />
+
 
 
