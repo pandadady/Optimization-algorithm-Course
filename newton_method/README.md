@@ -40,6 +40,8 @@
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20W%7D%3D%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)X%5E%7Bi%7D%5D" style="border:none;" />
 
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=set%20%5C%20%5C%20%5C%20%20%5Cpi%20(X%5E%7Bi%7D)%20%3D%20%5Cfrac%7B1%7D%7B1%2Be%5E%7B-W%5E%7BT%7DX%5E%7Bi%7D%20%7D%7D" style="border:none;" />
+
     It is easy to get
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20w_%7B0%7D%7D%3D%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)x%5E%7Bi%7D_%7B0%7D%5D" style="border:none;" />
