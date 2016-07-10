@@ -18,7 +18,7 @@
     
         During each iteration, all the input will be taken into calculation.
         
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(w)%7D%7B%5Cpart%20W%7D%20%3D%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7DX%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D)X%5E%7Bi%7D%7D%5D" style="border:none;" />
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(w)%7D%7B%5Cpart%20W%7D%20%3D%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7DX%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)X%5E%7Bi%7D%5D" style="border:none;" />
         
 
     SGD(Stochastic gradient descent method):
