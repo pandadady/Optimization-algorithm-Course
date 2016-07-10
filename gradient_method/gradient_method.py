@@ -2,7 +2,7 @@
 """
 This module is used to learn gradient method
 Authors: shiduo(shiduo@baidu.com)
-Date:2016-6-9
+Date:2016-7-9
 """
 def SGD(dataMatrix, classLabels, numIter=150):
     m,n = shape(dataMatrix)
