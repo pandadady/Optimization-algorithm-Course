@@ -36,10 +36,250 @@
 
     HJ(X) is Hessian Matrix which is a multivariate function of the two - order partial derivative of the matrix.
 
-\mathbf{H}=\begin{bmatrix} 
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <semantics>
+    <mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mi mathvariant="bold">H</mi>
+      </mrow>
+      <mo>=</mo>
+      <mrow>
+        <mo>[</mo>
+        <mtable rowspacing="4pt" columnspacing="1em">
+          <mtr>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msubsup>
+                    <mi>x</mi>
+                    <mn>1</mn>
+                    <mn>2</mn>
+                  </msubsup>
+                </mrow>
+              </mfrac>
+            </mtd>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>1</mn>
+                  </msub>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mtd>
+            <mtd>
+              <mo>&#x22EF;<!-- ⋯ --></mo>
+            </mtd>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>1</mn>
+                  </msub>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mi>n</mi>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                  </msub>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>1</mn>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mtd>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msubsup>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                    <mn>2</mn>
+                  </msubsup>
+                </mrow>
+              </mfrac>
+            </mtd>
+            <mtd>
+              <mo>&#x22EF;<!-- ⋯ --></mo>
+            </mtd>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                  </msub>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mi>n</mi>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mo>&#x22EE;<!-- ⋮ --></mo>
+            </mtd>
+            <mtd>
+              <mo>&#x22EE;<!-- ⋮ --></mo>
+            </mtd>
+            <mtd>
+              <mo>&#x22F1;<!-- ⋱ --></mo>
+            </mtd>
+            <mtd>
+              <mo>&#x22EE;<!-- ⋮ --></mo>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mi>n</mi>
+                  </msub>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>1</mn>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mtd>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mi>n</mi>
+                  </msub>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mtd>
+            <mtd>
+              <mo>&#x22EF;<!-- ⋯ --></mo>
+            </mtd>
+            <mtd>
+              <mfrac>
+                <mrow>
+                  <msup>
+                    <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                    <mn>2</mn>
+                  </msup>
+                  <mi>f</mi>
+                </mrow>
+                <mrow>
+                  <mi mathvariant="normal">&#x2202;<!-- ∂ --></mi>
+                  <msubsup>
+                    <mi>x</mi>
+                    <mi>n</mi>
+                    <mn>2</mn>
+                  </msubsup>
+                </mrow>
+              </mfrac>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+    <annotation encoding="application/x-tex">\mathbf{H}=\begin{bmatrix} 
 \frac{\partial^2f}{\partial x_1^2} & \frac{\partial^2f}{\partial x_1\partial x_2} & \cdots &\frac{\partial^2f}{\partial x_1\partial x_n} \\
  \frac{\partial^2f}{\partial x_2\partial x_1} & \frac{\partial^2f}{\partial x_2^2} &  \cdots &\frac{\partial^2f}{\partial x_2\partial x_n} \\ \vdots & \vdots & \ddots & \vdots \\
-\frac{\partial^2f}{\partial x_n\partial x_1}&\frac{\partial^2f}{\partial x_n\partial x_2}&\cdots &\frac{\partial^2f}{\partial x_n^2} \end{bmatrix}
+\frac{\partial^2f}{\partial x_n\partial x_1}&\frac{\partial^2f}{\partial x_n\partial x_2}&\cdots &\frac{\partial^2f}{\partial x_n^2} \end{bmatrix}</annotation>
+  </semantics>
+</math>
 
 
 
