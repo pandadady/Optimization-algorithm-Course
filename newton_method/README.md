@@ -54,6 +54,7 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20w_%7Bk%7D%5Cpart%20w_%7Bj%7D%7D%3D%0A%0A%5Cfrac%7B%5Cpart%20%5Csum_%7Bi%3D1%7D%5EM%20%5B(Y%5E%7Bi%7D-%5Cfrac%7B1%7D%7B1%2Be%5E%7BW%5E%7BT%7DX%5E%7Bi%7D%7D%7D)x%5E%7Bi%7D_%7Bk%7D%5D%7D%0A%7B%5Cpart%20w_%7Bj%7D%7D%0A%0A" style="border:none;" />
 
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20w_%7Bk%7D%5Cpart%20w_%7Bj%7D%7D%3D%0A%0A%5Csum_%7Bi%3D1%7D%5EM%20x%5E%7Bi%7D_%7Bk%7D%20%5Ccdot%20%0A%0A%5Cfrac%7B1%7D%7B1%2Be%5E%7B%20W%5E%7BT%7DX%5E%7Bi%7D%20%7D%7D%20%5Ccdot%20%0A%0A(%5Cfrac%7B1%7D%7B1%2Be%5E%7B%20W%5E%7BT%7DX%5E%7Bi%7D%20%7D%7D%20-1)%20%20%5Ccdot%20%0A%0A%20x%5E%7Bi%7D_%7Bj%7D%20" style="border:none;" />
 
     
     
