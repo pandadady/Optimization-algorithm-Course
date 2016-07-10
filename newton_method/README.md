@@ -34,5 +34,9 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=X_%7Bn%2B1%7D%3DX_%7Bn%7D-%5Cfrac%7B%5Cnabla%20J(X_%7Bn%7D)%7D%7BHJ(X_%7Bn%7D)%7D" style="border:none;" />
 
+    HJ(X) is Hessian Matrix which is a multivariate function of the two - order partial derivative of the matrix.
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cpi%20%5Cmathbf%7BH%7D%3D%5Cbegin%7Bbmatrix%7D%20%0A%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_1%5E2%7D%20%26%20%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_1%5Cpartial%20x_2%7D%20%26%20%5Ccdots%20%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_1%5Cpartial%20x_n%7D%20%5C%5C%0A%20%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_2%5Cpartial%20x_1%7D%20%26%20%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_2%5E2%7D%20%26%20%20%5Ccdots%20%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_2%5Cpartial%20x_n%7D%20%5C%5C%20%5Cvdots%20%26%20%5Cvdots%20%26%20%5Cddots%20%26%20%5Cvdots%20%5C%5C%0A%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_n%5Cpartial%20x_1%7D%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_n%5Cpartial%20x_2%7D%26%5Ccdots%20%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_n%5E2%7D%20%5Cend%7Bbmatrix%7D" style="border:none;" />
+
 
 
