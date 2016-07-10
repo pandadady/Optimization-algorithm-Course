@@ -36,7 +36,10 @@
 
     HJ(X) is Hessian Matrix which is a multivariate function of the two - order partial derivative of the matrix.
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cpi%20%5Cmathbf%7BH%7D%3D%5Cbegin%7Bbmatrix%7D%20%0A%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_1%5E2%7D%20%26%20%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_1%5Cpartial%20x_2%7D%20%26%20%5Ccdots%20%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_1%5Cpartial%20x_n%7D%20%5C%5C%0A%20%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_2%5Cpartial%20x_1%7D%20%26%20%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_2%5E2%7D%20%26%20%20%5Ccdots%20%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_2%5Cpartial%20x_n%7D%20%5C%5C%20%5Cvdots%20%26%20%5Cvdots%20%26%20%5Cddots%20%26%20%5Cvdots%20%5C%5C%0A%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_n%5Cpartial%20x_1%7D%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_n%5Cpartial%20x_2%7D%26%5Ccdots%20%26%5Cfrac%7B%5Cpartial%5E2f%7D%7B%5Cpartial%20x_n%5E2%7D%20%5Cend%7Bbmatrix%7D" style="border:none;" />
+\mathbf{H}=\begin{bmatrix} 
+\frac{\partial^2f}{\partial x_1^2} & \frac{\partial^2f}{\partial x_1\partial x_2} & \cdots &\frac{\partial^2f}{\partial x_1\partial x_n} \\
+ \frac{\partial^2f}{\partial x_2\partial x_1} & \frac{\partial^2f}{\partial x_2^2} &  \cdots &\frac{\partial^2f}{\partial x_2\partial x_n} \\ \vdots & \vdots & \ddots & \vdots \\
+\frac{\partial^2f}{\partial x_n\partial x_1}&\frac{\partial^2f}{\partial x_n\partial x_2}&\cdots &\frac{\partial^2f}{\partial x_n^2} \end{bmatrix}
 
 
 
