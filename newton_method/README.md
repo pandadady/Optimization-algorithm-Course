@@ -58,6 +58,10 @@
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Cfrac%7B%5Cpart%20lnL(W)%7D%7B%5Cpart%20w_%7Bk%7D%5Cpart%20w_%7Bj%7D%7D%3D%0A%0A%5Csum_%7Bi%3D1%7D%5EM%20x%5E%7Bi%7D_%7Bk%7D%20%5Ccdot%20%0A%0A%5Cpi(X%5E%7Bi%7D)%20%5Ccdot%20%0A%0A(%5Cpi(X%5E%7Bi%7D)%20-1)%20%20%5Ccdot%20%0A%0A%20x%5E%7Bi%7D_%7Bj%7D%20" style="border:none;" />
 
+    Assum X is:
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=X%3D%5B%5C%5C%0Ax_%7B10%7D%20%2C%5C%20%5C%20%5C%20x_%7B11%7D%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2Cx_%7B1n%7D%5C%5C%0Ax_%7B20%7D%20%2C%5C%20%5C%20%5C%20x_%7B21%7D%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2Cx_%7B2n%7D%5C%5C%0A...%5C%5C%0Ax_%7Bm0%7D%20%2C%5C%20%5C%20%5C%20x_%7Bm1%7D%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2Cx_%7Bmn%7D%5C%5C%0A%5D" style="border:none;" />
+
     
     
 
