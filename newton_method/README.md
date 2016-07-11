@@ -70,7 +70,9 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=H%3DX%5E%7BT%7DAX" style="border:none;" />
 
-    As we all know, if for any X, A is greater than 0, A is positive definite matrix,
+    As we all know, if for any X, A is less than 0, A is negative definite matrix,then H is 
+    
+    negative definite matrix.
     
     lnL(W) will get the max value
     
@@ -79,6 +81,16 @@
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=lnL(W)'%3DXU%5C%5C%0AlnL(W)''%3DH%5C%5C%0A" style="border:none;" />
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=X_%7Bn%2B1%7D%3DX_%7Bn%7D-H%5E%7B-1%7DUX" style="border:none;" />
+
+    Set A'
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=A'%3D%5B%5C%5C%0A%5Cpi(X%5E%7B1%7D)(1-%5Cpi(X%5E%7B1%7D))%20%2C%5C%20%5C%20%5C%200%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2C0%5C%5C%0A0%20%2C%5C%20%5C%20%5C%20%5Cpi(X%5E%7B2%7D)(1-%5Cpi(X%5E%7B2%7D))%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2C0%5C%5C%0A...%5C%5C%0A0%20%2C%5C%20%5C%20%5C%200%20%2C%5C%20%5C%20%5C%20...%5C%20%5C%20%2C%5Cpi(X%5E%7Bm%7D)(1-%5Cpi(X%5E%7Bm%7D))%5C%5C%0A%5D" style="border:none;" />
+    
+    Set H', This H is positive definite matrix.
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=H'%3DX%5E%7BT%7DA'X" style="border:none;" />
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=X_%7Bn%2B1%7D%3DX_%7Bn%7D%2B(H')%5E%7B-1%7DUX" style="border:none;" />
 
 ##3.Experiment
 
