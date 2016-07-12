@@ -38,6 +38,5 @@ def dfp(dataMat, labelMat, iterNum=3):
         M2=H0.dot(y0.T).dot(y0).dot(H0)/(y0.dot(H0).dot(y0.T))* (-1)
         H1=H0+M1+M2
         weight0=weight1
-        print weight0
         H0=H1
     return array(weight1)[0].tolist()
