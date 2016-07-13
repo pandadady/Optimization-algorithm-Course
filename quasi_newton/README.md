@@ -2,7 +2,7 @@
 
 ##1.Summary
     
-    This algorithm cluster  is considered as the improvement of Newton algorithm. In order to solve problems 
+    This algorithm cluster is considered as the improvement of Newton algorithm. In order to solve problems 
     
     as below,
     
