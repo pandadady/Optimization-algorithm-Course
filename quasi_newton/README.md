@@ -16,8 +16,7 @@
     
     of directly calculating.And, in addtion, invite alpha to correct the desent direction.
     
-## DFP Algorithm
-
+##2.DFP Algorithm
     The authors of DFP algorithm is Davidon,Fletcher adn Powell, they named the algorithm by the first 
     
     letter of their name.Here introduces the quasi Newton conditions which is the core of how to simulate 
@@ -54,15 +53,22 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha_%7Bk%7D%2C%5Cbeta%20_%7Bk%7D%20%5C%20%5C%20%5C%20%20%5Cin%20%5C%20%5C%20%5C%20R%5C%5C%0Au_%7Bk%7D%2Cv_%7Bk%7D%20%5C%20%5C%20%5C%20%20%5Cin%20%5C%20%5C%20%5C%20%20R%5E%7Bn%7D%5C%5C%0A%0A%5CDelta%20H%20%3D%20%5Calpha_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7D%2B%5Cbeta%20_%7Bk%7D%20v_%7Bk%7Dv_%7Bk%7D%5E%7BT%7D" style="border:none;" />
 
+    Add quasi-newton-condition into formula.
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=(H_%7Bk%7D%2B%5Calpha%20_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7D%2B%5Cbeta%20_%7Bk%7Dv_%7Bk%7Dv_%7Bk%7D%5E%7BT%7D)y_%7Bk%7D%3Ds_%7Bk%7D%0A" style="border:none;" />
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%2B%5Cbeta%20_%7Bk%7Dv_%7Bk%7Dv_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3Ds_%7Bk%7D-H_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%2B%5Cbeta%20_%7Bk%7Dv_%7Bk%7Dv_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3Ds_%7Bk%7D-H_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
 
 
     
     
     
     
-## BFGS Algorithm
+##3.BFGS Algorithm
 
-## LBFGS Algorithm
+##4.LBFGS Algorithm
 
 
     
