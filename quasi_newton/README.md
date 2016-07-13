@@ -78,6 +78,10 @@
     
 ##3.BFGS Algorithm
 
+    The difference between DFP and BFGS is the correction formula.
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=H_%7Bk%2B1%7D%3DH_%7Bk%7D%2B(1%2B%5Cfrac%7By_%7Bk%7D%5E%7BT%7DH_%7Bk%7Dy_%7Bk%7D%7D%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%7D)%5Cfrac%7Bs_%7Bk%7Ds_%7Bk%7D%5E%7BT%7D%7D%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%7D-%0A%0A%5Cfrac%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7DH_%7Bk%7D%2BH_%7Bk%7Dy_%7Bk%7Ds_%7Bk%7D%5E%7BT%7D%7D%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%7D" style="border:none;" />
+
 ##4.LBFGS Algorithm
 
 
