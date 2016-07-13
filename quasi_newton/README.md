@@ -26,6 +26,10 @@
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=H_%7Bk%2B1%7D%3DH_%7Bk%7D%2B%5CDelta%20H" style="border:none;" />
 
+    Assume delta H can be repesented by uk and vk.
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha_%7Bk%7D%2C%5Cbeta%20_%7Bk%7D%20%5C%20%5C%20%5C%20%20%5Cin%20%5C%20%5C%20%5C%20R%5C%5C%0Au_%7Bk%7D%2Cv_%7Bk%7D%20%5C%20%5C%20%5C%20%20%5Cin%20%5C%20%5C%20%5C%20%20R%5E%7Bn%7D%5C%5C%0A%0A%5CDelta%20H%20%3D%20%5Calpha_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7D%2B%5Cbeta%20_%7Bk%7D%20v_%7Bk%7Dv_%7Bk%7D%5E%7BT%7D" style="border:none;" />
+
 ## BFGS Algorithm
 
 ## LBFGS Algorithm
