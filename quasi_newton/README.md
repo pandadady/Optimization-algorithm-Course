@@ -32,6 +32,9 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=g(x)%5Capprox%20g(x%5E%7Bk%2B1%7D)%2B%5Cnabla%5E%7B2%7Df(x%5E%7Bk%2B1%7D)(x-x%5E%7Bk%2B1%7D)%5C%5C%0Ag_%7Bk%7D%5Capprox%20g(x%5E%7Bk%2B1%7D)%2B%5Cnabla%5E%7B2%7Df(x%5E%7Bk%2B1%7D)(x%5E%7Bk%7D-x%5E%7Bk%2B1%7D)%5C%5C%0A" style="border:none;" />
 
+    It is easy to get.
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=g_%7Bk%2B1%7D-g_%7Bk%7D%3DG_%7Bk%2B1%7D(x%5E%7Bk%7D-x%5E%7Bk%2B1%7D)%5C%5C%0A%0AG_%7Bk%2B1%7D%5E%7B-1%7D(g_%7Bk%2B1%7D-g_%7Bk%7D)%3D(x%5E%7Bk%7D-x%5E%7Bk%2B1%7D)%5C%5C%0A" style="border:none;" />
     
     
     Assume this is the formula of updating inverse matrix of hessen
