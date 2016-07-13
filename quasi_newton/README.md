@@ -63,7 +63,9 @@
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3Ds_%7Bk%7D%5C%5C%0A%5Cbeta%20_%7Bk%7Dv_%7Bk%7Dv_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3D-H_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
 
-
+    Assume this 
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7Du_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3D1%5C%5C%0Au_%7Bk%7D%3Ds_%7Bk%7D%5C%5C%0A%5Cbeta%20_%7Bk%7Dv_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3D-1%5C%5C%0Av_%7Bk%7D%3DH_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
     
     
     
