@@ -7,8 +7,6 @@ This repository is used to practice optimization algorithm.
     
     Stochastic Gradient Descent
     
-    conjugate gradient method
-    
 ###(2)Newton method
 ###(3)Quasi Newton method
 
