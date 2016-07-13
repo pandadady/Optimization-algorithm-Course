@@ -107,7 +107,7 @@
 <td> BFGS </td> <td> 3 </td> <td> 0.00297257329653 s </td><td> 0.97 </td>
 </tr>
 <tr>
-<td> LBFGS </td> <td> 3 </td> <td> 0.00333607312419 s </td><td> 0.97 </td>
+<td> LBFGS </td> <td> 3 </td> <td> 0.00333607312419 s </td><td> 0.96 </td>
 </tr>
 </table>
     
