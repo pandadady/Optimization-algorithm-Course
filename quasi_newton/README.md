@@ -59,7 +59,9 @@
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%2B%5Cbeta%20_%7Bk%7Dv_%7Bk%7Dv_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3Ds_%7Bk%7D-H_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%2B%5Cbeta%20_%7Bk%7Dv_%7Bk%7Dv_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3Ds_%7Bk%7D-H_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
+    The above equation has many solutions, there is certain solution which needs our concern.
+    
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%20u_%7Bk%7Du_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3Ds_%7Bk%7D%5C%5C%0A%5Cbeta%20_%7Bk%7Dv_%7Bk%7Dv_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%3D-H_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
 
 
     
