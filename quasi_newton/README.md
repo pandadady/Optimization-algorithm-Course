@@ -69,11 +69,11 @@
     
     So 
     
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%3D%5Cfrac%7B1%7D%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%7D%5C%5C%0Au_%7Bk%7D%3Ds_%7Bk%7D%5C%5C%0A%5Cbeta%20_%7Bk%3D-%5Cfrac%7B1%7D%7B%7Dy_%7Bk%7D%5E%7BT%7DH_%7Bk%7Dy_%7Bk%7D%7D%5C%5C%0Av_%7Bk%7D%3DH_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Calpha%20_%7Bk%7D%3D%5Cfrac%7B1%7D%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%7D%5C%5C%0Au_%7Bk%7D%3Ds_%7Bk%7D%5C%5C%0A%5Cbeta%20_%7Bk%7D%3D-%5Cfrac%7B1%7D%7By_%7Bk%7D%5E%7BT%7DH_%7Bk%7Dy_%7Bk%7D%7D%5C%5C%0Av_%7Bk%7D%3DH_%7Bk%7Dy_%7Bk%7D%0A" style="border:none;" />
 
     Then the iteration formula is 
     
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=%0AH_%7Bk%2B1%7D%3DH_%7Bk%7D%2B%5Cfrac%7Bs_%7Bk%7Ds_%7Bk%7D%5E%7BT%7D%7D%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%7D-%0A%0A%5Cfrac%7BH_%7Bk%7Dy_%7Bk%7Dy_%7Bk%7D%5E%7BT%7DH_%7Bk%7D%7D%7B%7Dy_%7Bk%7D%5E%7BT%7DH_%7Bk%7Dy_%7Bk%7D%7D" style="border:none;" />
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=H_%7Bk%2B1%7D%3DH_%7Bk%7D%2B%5Cfrac%7Bs_%7Bk%7Ds_%7Bk%7D%5E%7BT%7D%7D%7Bs_%7Bk%7D%5E%7BT%7Dy_%7Bk%7D%7D-%0A%0A%5Cfrac%7BH_%7Bk%7Dy_%7Bk%7Dy_%7Bk%7D%5E%7BT%7DH_%7Bk%7D%7D%7By_%7Bk%7D%5E%7BT%7DH_%7Bk%7Dy_%7Bk%7D%7D" style="border:none;" />
     
     
 ##3.BFGS Algorithm
