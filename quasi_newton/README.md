@@ -89,5 +89,7 @@
     The following formulas will be used in iteration.
     
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=%5Crho%20_%7Bk%7D%3D%5Cfrac%7B1%7D%7By_%7Bk%7D%5E%7BT%7Ds_%7Bk%7D%7D%5C%5C%0As_%7Bk%7D%3Dx%5E%7Bk%7D-x%5E%7Bk%2B1%7D%5C%5C%0Ay_%7Bk%7D%3Dg_%7Bk%2B1%7D-g_%7Bk%7D%5C%5C%0AV_%7Bk%7D%3DI-%5Crho_%7Bk%7Dy_%7Bk%7Ds_%7Bk%7D%5E%7BT%7D" style="border:none;" />
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=%0AH_%7Bk%7D%3DV_%7Bk-1%7D%5E%7BT%7DH_%7Bk-1%7DV_%7Bk-1%7D%2Bs_%7Bk-1%7D%5Crho%20_%7Bk-1%7Ds_%7Bk-1%7D%5E%7BT%7D" style="border:none;" />
     
     
