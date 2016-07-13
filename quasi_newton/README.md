@@ -84,6 +84,9 @@
 
 ##4.LBFGS Algorithm
 
-
+    The letter L means limit memery. This algorithm will save more memery than BFGS algorithm.
+    
+    The following formulas will be used in iteration.
+    
     
     
