@@ -97,16 +97,16 @@
     The number of sample is 100, The dimension is 3.
 <table>
 <tr>
-<td> Method name </td> <td> Iteration number</td> <td> Calculation time </td>
+<td> Method name </td> <td> Iteration number</td> <td> Calculation time </td> <td> Accuracy </td>
 </tr>
 <tr>
-<td> BGD </td> <td> 500 </td> <td> 0.021650905029 s </td>
+<td> BGD </td> <td> 500 </td> <td> 0.021650905029 s </td><td> 0.96 </td>
 </tr>
 <tr>
-<td> SGD </td> <td> 150 </td> <td> 0.176577097458 s </td>
+<td> SGD </td> <td> 150 </td> <td> 0.176577097458 s </td><td> 0.94 </td>
 </tr>
 <tr>
-<td> NT </td> <td> 10 </td> <td> 0.0791933553942 s </td>
+<td> NT </td> <td> 10 </td> <td> 0.0791933553942 s </td><td> 0.97 </td>
 </tr>
 </table>
 
