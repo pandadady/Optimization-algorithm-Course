@@ -10,7 +10,7 @@
     
 ##2.Process
     
-    For example, logistic regression, weight is updated following the below formalu.
+    For example, logistic regression, weight is updated by following the below formalu.
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=W%5E%7Bt%2B1%7D%3DW%5E%7Bt%7D-%5Calpha%20%5Cfrac%7B%5Cpart%20lnL(w)%7D%7B%5Cpart%20W%7D" style="border:none;" />   
 
